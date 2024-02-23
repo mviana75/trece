@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "mviana75@gmail.com",
+      "properties": {
+        "fullname": "Treinamento TRE-CE",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "trece"
+    }
+  ],
+    "team": [
+  ]
+}
